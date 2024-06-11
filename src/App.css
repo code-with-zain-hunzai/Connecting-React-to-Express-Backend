@@ -1,0 +1,15 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+/* // await delay(2);
+
+    
+// if (data.username !== "zain") {
+//   setError("form", {message:"Your crendentials are invalid"})
+// }if(data.username === "rahat"){
+//   setError("blocked", {message:"sorry this user is blocked"})
+//  */
